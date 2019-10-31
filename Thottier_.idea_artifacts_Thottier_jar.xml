@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Thottier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thottier_jar</output-path>
+    <root id="archive" name="Thottier.jar">
+      <element id="module-output" name="Thottier" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-withDependencies-no-opus.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-withDependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

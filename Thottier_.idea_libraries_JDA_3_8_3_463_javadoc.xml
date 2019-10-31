@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JDA-3.8.3_463-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-withDependencies-no-opus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-withDependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../JDA Libraries/JDA-3.8.3_463-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
